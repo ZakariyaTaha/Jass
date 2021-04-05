@@ -1,3 +1,5 @@
+<h1>Jass Game</h1>
+
 The goal of this year's project, named Javass, is to write a program to play a variation of the famous Jass game. 
 Jass is a very popular card game in Switzerland — where it is often referred to as a national sport — and in other neighboring countries, and is close to belote and other similar games.<br>
 
